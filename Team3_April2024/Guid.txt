@@ -1,1 +1,1 @@
-
+This folder contains the coding work and the submission CSV file of Team 3 representing Afghanistan in Challenge 2 of the WiDS hackathon held from April to June 2024.
